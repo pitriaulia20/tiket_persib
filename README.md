@@ -1,5 +1,8 @@
 # Tampilan Aplikasi Tiket Persib
 
+## Link Google Drive
+[Klik untuk membuka folder Google Drive](https://drive.google.com/drive/folders/1Ox9sFEUat4w2udjz4q5BGr8xbHGQ3HZ8)
+
 ## Beranda
 ![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/beranda1.png?raw=true)
 
